@@ -1,0 +1,45 @@
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\bin\Debug\WeatherStations.exe.config
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\bin\Debug\WeatherStations.exe
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\bin\Debug\WeatherStations.pdb
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.csprojAssemblyReference.cache
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.Properties.Resources.resources
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.csproj.GenerateResource.cache
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.csproj.CoreCompileInputs.cache
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.exe
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.pdb
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmWeatherStations.resources
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmEditLocation.resources
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmAddLocation.resources
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmEditYearDescription.resources
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmEditMonthlyObservation.resources
+C:\Users\gdperrins\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmAddNewYear.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\bin\Debug\WeatherStations.exe.config
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\bin\Debug\WeatherStations.exe
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\bin\Debug\WeatherStations.pdb
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.csprojAssemblyReference.cache
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmAddLocation.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmAddNewYear.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmEditLocation.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmEditMonthlyObservation.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmEditYearDescription.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmWeatherStations.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.Properties.Resources.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.csproj.GenerateResource.cache
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.csproj.CoreCompileInputs.cache
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.exe
+C:\Users\Georgia\OneDrive - University of Plymouth\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.pdb
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\bin\Debug\WeatherStations.exe.config
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\bin\Debug\WeatherStations.exe
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\bin\Debug\WeatherStations.pdb
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.csprojAssemblyReference.cache
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmAddLocation.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmAddNewYear.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmEditLocation.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmEditMonthlyObservation.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmEditYearDescription.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.frmWeatherStations.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.Properties.Resources.resources
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.csproj.GenerateResource.cache
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.csproj.CoreCompileInputs.cache
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.exe
+C:\Users\Georgia\OneDrive - University of Plymouth\First Year\Soft152\Coursework\WeatherStations\WeatherStations\obj\Debug\WeatherStations.pdb
